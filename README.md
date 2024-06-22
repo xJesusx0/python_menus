@@ -30,11 +30,11 @@ Para usar este módulo en tu script de Python, sigue estos pasos:
    git clone https://github.com/xJesusx0/python-menus.git
    ```
 
-3. **Importa las funciones de `menus.py` y `print_color` de `colors.py`**:
+3. **Importa las funciones de `menus.py`**:
    ```python
-   from python_menus import *
+   from python_menus.menus import *
    # o el menu en especifico que quieras
-   from python-menus import menu1
+   from python_menus.menus import menu1
    ```
 
 4. **Define una lista de opciones que deseas mostrar en los menús**:
