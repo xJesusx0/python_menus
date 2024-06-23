@@ -27,7 +27,7 @@ Para usar este módulo en tu script de Python, sigue estos pasos:
    ```
 2. **Clona el repositorio en tu proyecto:**
    ```bash
-   git clone https://github.com/xJesusx0/python-menus.git
+   git clone https://github.com/xJesusx0/python_menus.git
    ```
 
 3. **Importa las funciones de `menus.py`**:
