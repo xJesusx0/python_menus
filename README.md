@@ -17,8 +17,8 @@ El módulo `python-menu` incluye las siguientes funciones de menú:
 - `menu9(opciones: list)`: Imprime un menú con fondo cian y opciones numeradas enmarcadas con bordes.
 - `menu10(opciones: list)`: Imprime un menú con fondo azul y opciones numeradas en un marco estilo ASCII.
 
-### Importante
-En caso de que presentes un error con la importacion del modulo colors haz lo siguiente
+> [!WARNING]
+> En caso de que presentes un error con la importacion del modulo colors haz lo siguiente
 
 1. **Dirigete al archivo python_menus/menus.py**
 2. **Cambia la linea de importacion**
