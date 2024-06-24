@@ -118,3 +118,15 @@ def menu10(opciones: list):
     for i in range(len(opciones)):
         print_color(f'║ {i}. {opciones[i]}', foreground, 'bold', background)
     print_color('╙───────────────╜', foreground, 'bold', background)
+
+
+def menu11(opciones: list):
+    foreground = 'red'
+    background = ''
+    
+    print_color('█▀ Menu',foreground,'bold',background)
+
+    for i in range(len(opciones)):
+        print_color('•',foreground,'bold',background,'')
+        print_color(f' {opciones[i]}')
+    
