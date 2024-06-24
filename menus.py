@@ -124,7 +124,7 @@ def menu11(opciones: list):
     foreground = 'red'
     background = ''
     
-    print_color('█▀ Menu',foreground,'bold',background)
+    print_color('  Menu',foreground,'bold',background)
 
     for i in range(len(opciones)):
         print_color('•',foreground,'bold',background,'')
